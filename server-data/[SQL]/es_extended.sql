@@ -1745,7 +1745,7 @@ CREATE TABLE IF NOT EXISTS `vehicle_categories` (
 -- Dump dei dati della tabella es_extended.vehicle_categories: ~11 rows (circa)
 INSERT INTO `vehicle_categories` (`name`, `label`) VALUES
 	('compacts', 'Compacts'),
-	('coupes', 'CoupÃƒÆ’Ã‚Â©s'),
+	('coupes', 'Coupes'),
 	('motorcycles', 'Motos'),
 	('muscle', 'Muscle'),
 	('offroad', 'Off Road'),
